@@ -1,0 +1,4 @@
+insert into trades(Trade_Id,version,Counter_Party_Id,Book_Id,Maturity_Date,Created_Date,expired) values('T1',1,'CP-1','B1','2020-05-20','2020-01-01','N');
+insert into trades(Trade_Id,version,Counter_Party_Id,Book_Id,Maturity_Date,Created_Date,expired) values('T2',2,'CP2','B1','2021-05-20','2020-01-01','N');
+insert into trades(Trade_Id,version,Counter_Party_Id,Book_Id,Maturity_Date,Created_Date,expired) values('T3',1,'CP-1','B1','2021-05-20','2025-03-14','N');
+insert into trades(Trade_Id,version,Counter_Party_Id,Book_Id,Maturity_Date,Created_Date,expired) values('T4',3,'CP-3','B2','2014-05-20','2020-01-01','N');
